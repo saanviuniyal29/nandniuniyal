@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandni</h1>
+<h1 align="center">Hi 👋, I'm Saanvi Uniyal</h1>
 <h3 align="center">A CSE grad, master's student, and aspiring public speaker with a passion for technology and problem-solving. Experienced as a Developer, I enjoy designing and solving technical challenges while learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandniuniyal&label=Profile%20views&color=0e75b6&style=flat" alt="nandniuniyal" /> </p>
