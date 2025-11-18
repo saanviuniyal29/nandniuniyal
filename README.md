@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning frameworks, IoT application development, and Data Science.**  
 - 👯 I’m looking to collaborate on **Machine Learning and Data Analysis projects.**  
 - 🤝 I’m looking for help with **Developing adaptive learning frameworks for IoT applications.**  
-- 👨‍💻 LinkedIn: [https://www.linkedin.com/in/nandni29/](https://www.linkedin.com/in/nandni29/)  
+- 👨‍💻 LinkedIn: [https://www.linkedin.com/in/nandni29/](https://www.linkedin.com/in/saanviuniyal/)  
 - 📝 Articles: [https://khabarexpress5.wordpress.com/](https://khabarexpress5.wordpress.com/)  
 - 💬 Ask me about **Collaborative work in community service and event management through ROTARACT.**  
 
